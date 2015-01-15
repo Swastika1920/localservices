@@ -1,0 +1,13 @@
+
+.bd{
+	background: url(../nn.jpg) no-repeat fixed;
+font-size:20px;	
+	width: 4%;
+	height:4%;
+	 color: yellow;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size: cover;
+
+}
